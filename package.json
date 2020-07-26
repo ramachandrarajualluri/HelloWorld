@@ -1,0 +1,26 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramachandrarajualluri/HelloWorld.git"
+  },
+  "keywords": [
+    "helloworld"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramachandrarajualluri/HelloWorld/issues"
+  },
+  "homepage": "https://github.com/ramachandrarajualluri/HelloWorld#readme",
+  "dependencies": {
+    "date-and-time": "^0.13.1",
+    "express": "^4.17.1"
+  }
+}
